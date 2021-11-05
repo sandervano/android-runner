@@ -1,0 +1,157 @@
+<experiment>
+  <configHash>a5bfcc39fddb9cade995a23246f8c7b1</configHash>
+  <outputDir>/home/feelix/Desktop/Classes/Year6/GreenLab/experiment/DOffT/output/2021.10.28_125532/</outputDir>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="10">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="11">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="12">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="13">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="14">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="15">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="16">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="17">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="18">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="19">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="20">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>21</runCount>
+    </run>
+    <run runId="21">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>22</runCount>
+    </run>
+    <run runId="22">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>23</runCount>
+    </run>
+    <run runId="23">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>24</runCount>
+    </run>
+    <run runId="24">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>25</runCount>
+    </run>
+    <run runId="25">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>26</runCount>
+    </run>
+    <run runId="26">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>27</runCount>
+    </run>
+    <run runId="27">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>28</runCount>
+    </run>
+    <run runId="28">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>29</runCount>
+    </run>
+    <run runId="29">
+      <device>exp</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>30</runCount>
+    </run>
+  </runsDone>
+</experiment>

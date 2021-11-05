@@ -1,20 +1,19 @@
 {
   "type": "native",
   "devices": {
-    "j7duo2": {}
+    "exp": {}
   },
-  "repetitions": 3,
+  "repetitions": 2,
   "duration": 60000,
-  "monkeyrunner_path": "/home/user/Android/Sdk/tools/bin/monkeyrunner",
-  "systrace_path": "/home/user/Android/Sdk/platform-tools/systrace/systrace.py",
-  "powerprofile_path": "android-runner/examples/batterystats/Scripts/power_profile.xml",
-  "paths": [
-    "android-runner/example/batterystats/test.androidrunner.apk",
-    "android-runner/example/batterystats/test.blackscreen.apk"
+  "systrace_path": "/home/feelix/Android/Sdk/platform-tools/systrace/systrace.py",
+  "powerprofile_path": "/home/feelix/Desktop/Classes/Year6/GreenLab/android-runner/examples/batterystats/Scripts/power_profile.xml",
+  "apps": [
+    "com.google.android.apps.maps"
   ],
   "profilers": {
     "batterystats": {
-      "cleanup": true 
+      "cleanup": true,
+      "enable_systrace_parsing": false
     }
   },
   "scripts": {
@@ -25,5 +24,5 @@
     "after_run": "Scripts/after_run.py",
     "after_experiment": "Scripts/after_experiment.py"
   },
-  "time_between_run": 120000
+  "time_between_run": 10000
 }

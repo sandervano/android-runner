@@ -1,0 +1,7 @@
+cd /home/pi/external_hdd/android-runner
+sudo python3 -m venv .venv
+source .venv/bin/activate
+cd ../
+sudo ./runonline.sh
+# Dowload offline map, turn off wifi.
+sudo ./runoffline.sh
